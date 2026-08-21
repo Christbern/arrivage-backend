@@ -1,0 +1,15 @@
+{
+    "agents": [
+        "opencode",
+        "claude_code",
+        "copilot"
+    ],
+    "cloud": false,
+    "guidelines": true,
+    "skills": [
+        "infer-conventions",
+        "laravel-best-practices",
+        "pest-testing",
+        "tailwindcss-development"
+    ]
+}
